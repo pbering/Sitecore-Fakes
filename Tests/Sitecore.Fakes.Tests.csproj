@@ -86,6 +86,7 @@
     <Compile Include="RealTest.cs" />
     <Compile Include="SecurityAndEditTests.cs" />
     <Compile Include="SerializationTests.cs" />
+    <Compile Include="TemplateTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config">
